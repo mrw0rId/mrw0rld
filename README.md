@@ -6,8 +6,8 @@ I have no any production experience yet, but this is my great goal, to learn Jav
 
 Skills: Java / JavaEE / MySQL/ 
 
-- 🔭 I’m currently working on Findinf some internship 
-- 🌱 I’m currently learning JavaEE 
+- 🔭 I’m currently serarching on some internship 
+- 🌱 I’m currently learning JavaEE and Spring FrameWork
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrw0rId)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//ilnur-mingazov-35033613b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mikee_m_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mrw0rId)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](codewars.com/users/mrw0rId)  
