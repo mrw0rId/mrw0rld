@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ilnur
 #### I'm Java-Beginner
-I'm a student of an online university at Java-development course. I have already finished java-core, MySQL blocks and learing JavaEE.
+And a student of an online university at Java-development course. I have already finished java-core, MySQL blocks and learing JavaEE.
 I have no any production experience yet, but this is my great goal, to learn Java, to learn new technologies, learn development instruments.
 
 
